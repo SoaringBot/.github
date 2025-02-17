@@ -15,7 +15,6 @@
 **Soaring** is a free to use, all-in-one Discord bot.
 
 * **⚡ Commands**: We have a large variety of commands for you to manage and control your server.
-* 
 * **✉️ 24/7 Support**: Our support team is willing to help you out with any issue you are having related to the bot
 
 ### Documentation and Support
@@ -27,8 +26,8 @@ For any kind of support regarding **Soaring**, feel free to open a support ticke
 
 | Repo name                                               | Brief description                                                         |
 | :------------------------------------------------------ | :------------------------------------------------------------------------ |
-| [Feature Board](https://github.com/soaringbot/)         | The public board where you can see our progress on your favorite features |
-| [Documentation](https://github.com/soaringbot/docs)     | The official documentation for **Soaring Bot**                            |
+| [Feature Board](https://github.com/orgs/SoaringBot/projects/3)         | The public board where you can see our progress on your favorite features |
+| [Documentation](https://github.com/soaringbot/)     | The official documentation for **Soaring Bot**                            |
 | [Public Profile](https://github.com/soaringbot/.github) | The public profile data for our GitHub profile                            |
 
 <p align="center">
